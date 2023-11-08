@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Müşteri Referansları";
+}
+@*header of page start*@
+<div class="home_index_top_information_main_div home_index_element_background_color color_white" style="height:200px;">
+    <div class="center_div_50_50">
+        <h2 class="text-center text_align_center">
+            Smart Logistics System'ın ruhu: 53.000'in üzerinde şirketten oluşan ağ
+        </h2>
+        <h5>
+            Burada, başarılı bir lojistik için iş ortaklarımızdan bir bölümünü bulabilirsiniz.
+        </h5>
+    </div>
+</div>
+@*header of page end*@
+<div class="home_index_customer_section_main_div margin_between_sections display_block height_auto">
+    <div class="container">
+    @*unordered list start*@
+    <ul class="home_index_best_services_section_unordered_list">
+        <li class="home_index_best_services_section_list_items width_33">
+            <a class="nav-link text-black" onclick="loadPartialView('/Company/LoadPartialView?partialViewName=CustomerReferencesPartialViews/_PartialViewManufacturingAndTrade','#company_customer_references_changable_content_div')"> Üretim ve Ticaret </a>
+        </li>
+        <li class="home_index_best_services_section_list_items width_33">
+            <a class="nav-link text-black" onclick="loadPartialView('/Company/LoadPartialView?partialViewName=CustomerReferencesPartialViews/_PartialViewFreightForwarder','#company_customer_references_changable_content_div')"> Nakliyeci</a>
+        </li>
+        <li class="home_index_best_services_section_list_items width_33">
+            <a class="nav-link text-black" onclick="loadPartialView('/Company/LoadPartialView?partialViewName=CustomerReferencesPartialViews/_PartialViewRoadHaulier','#company_customer_references_changable_content_div')">Taşıyıcı</a>
+        </li>
+    </ul>
+    @*unordered list end*@
+    @*content div start*@
+    <div id="company_customer_references_changable_content_div" class="home_index_best_services_section_content_div">
+        <partial name="CustomerReferencesPartialViews/_PartialViewManufacturingAndTrade" />
+        </div>
+    </div>
+    @*content div end*@
+    
+</div>

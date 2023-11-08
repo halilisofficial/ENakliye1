@@ -1,0 +1,153 @@
+﻿@{
+    ViewData["Title"] = "AnaSayfa";
+}
+@*Top İnformation Div start*@ 
+<div class="home_index_top_information_main_div home_index_element_background_color">
+    @*Center div start*@
+    <div class="text-center center_div_50_50">
+        @*company name paragraph start*@
+        <h1 class="home_index_top_information_company_name_p">
+            GNY Pazarı
+       </h1>
+        @*company name paragraph end*@
+        @*company catchword paragraph start*@
+        <h3 class="home_index_top_information_company_catchword_p">
+            Türkiye’nin yenilikçi yük borsası
+       </h3>
+        @*company catchword paragraph end*@
+        @*bottom buttons div start*@
+        <div class="home_index_top_information_buttons_div">
+            @*form login start*@
+            <form asp-area="" asp-controller="Account" asp-action="Login" method="get">
+                <button class="home_index_top_information_buttons" style="margin-right:20px; width:140px;">
+                    <text class="home_index_top_information_button_text_color">
+                        Giriş Yap
+                    </text>
+                </button>
+            </form>
+            @*form login end*@
+            @*form sign up start*@
+            <form asp-area="" asp-controller="Account" asp-action="SignUp" method="get">
+                <button class="home_index_top_information_buttons" style="margin-left:20px; width:140px;">
+                    <text class="home_index_top_information_button_text_color">
+                        Üye Ol
+                    </text>
+                </button>
+            </form>
+            @*form signup end*@
+       </div>
+        @*bottom buttons div end*@
+    </div>
+    @*Center div end*@
+</div>
+@*Top İnformation Div end*@
+<div class="container">
+@*about us section start*@
+<div class="home_index_about_us_section_main_div margin_between_sections">
+    @*about us section left div start*@
+    <div class="home_index_about_us_section_chield_divs">
+        @*url:
+        https://www.google.com/search?q=logistic+firm+car&tbm=isch&ved=2ahUKEwi7r-XstJOCAxUFgv0HHYijBK4Q2-cCegQIABAA&oq=logistic+firm+car&gs_lcp=CgNpbWcQAzoFCAAQgAQ6BggAEAgQHjoECAAQHjoHCAAQGBCABDoJCAAQGBCABBAKUO8NWLYfYNUgaABwAHgAgAF_iAGYCJIBAzAuOZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=DzM6ZfvrBoWE9u8PiMeS8Ao&bih=771&biw=850#imgrc=Fp_UuHtoDya3aM
+        *@
+        <img src="~/resource/images/hakkimizda.jpg" class="home_index_about_us_section_image"/>
+    </div>
+    @*about us section left div end*@
+    @*about us section right div start*@
+    <div class="home_index_about_us_section_chield_divs">
+        <h2 class="font_weight_bold">Hakkımızda - GNY</h2>
+        <p>
+            Nakliye borsasına sahip dijital bir pazar yeri olarak, üretim ve ticaret şirketlerinin yanı sıra nakliye şirketleri ve taşıyıcıları karayolu yük taşımacılığında nakliye siparişlerinin tedarikinde destekliyoruz. Hedefimiz, müşterilerimizin lojistik süreçlerini optimize etmek ve bu sayede zaman ve para tasarrufu yapmalarını sağlamak.
+        </p>
+        <ul>
+            <li>
+                Günlük 1 milyona kadar uluslararası nakliye ve yükleme teklifleri
+            </li>
+            <li>
+                Karayolu mal taşımacılığında + 189.000 takip edilebilir kamyon
+            </li>
+            <li>
+                Tarayıcı üzerinden kolay giriş
+            </li>
+        </ul>
+    </div>
+    @*about us section right div end*@
+</div>
+@*about us section end*@
+@*best services section start*@
+<div class="margin_between_sections">
+    <h2 class="font_weight_bold">GNY Pazarındaki En Önemli Ürünler ve Hizmetler</h2>
+    <p>
+        GNY pazarı çok sayıda ürün ve hizmet sunuyor. Bunu yaparken, kullanıcılarımızın lojistik zorluklarıyla daha rahat baş etmesini sağlamak için kolay kullanıma çok değer veriyoruz.
+    </p>
+    @*unordered list start*@
+    <ul class="home_index_best_services_section_unordered_list">
+        <li class="home_index_best_services_section_list_items">
+            <a class="nav-link text-black" onclick="loadPartialView('/Home/LoadPartialView?partialViewName=IndexPartialViews/_PartialViewFreightExchange','#home_best_services_changable_content_div')">Yük Borsası</a>
+        </li>
+        <li class="home_index_best_services_section_list_items">
+            <a class="nav-link text-black" onclick="loadPartialView('/Home/LoadPartialView?partialViewName=IndexPartialViews/_PartialViewInterfaces','#home_best_services_changable_content_div')">Arayüzler</a>
+        </li>
+        <li class ="home_index_best_services_section_list_items">
+            <a class="nav-link text-black" onclick="loadPartialView('/Home/LoadPartialView?partialViewName=IndexPartialViews/_PartialViewValueAddedServices','#home_best_services_changable_content_div')">Katma Değerli Hizmetler</a>
+        </li>
+        <li class="home_index_best_services_section_list_items">
+            <a class="nav-link text-black" onclick="loadPartialView('/Home/LoadPartialView?partialViewName=IndexPartialViews/_PartialViewTransportBarometer','#home_best_services_changable_content_div')">Nakliye Barometresi</a>
+        </li>
+    </ul>
+    @*unordered list end*@
+    @*content div start*@
+    <div id="home_best_services_changable_content_div" class="home_index_best_services_section_content_div">
+        <partial name="IndexPartialViews/_PartialViewFreightExchange" />
+    </div>
+    @*content div end*@
+</div>
+@*best services section end*@</div>
+@*Costomers section start*@
+<div class="home_index_customer_section_main_div margin_between_sections">
+    <div class="container">
+    <br />
+    <h3 class="font_weight_bold text_align_center">
+        Halihazırda 53.000'den fazla uluslararası ağ bağlantılı müşteri GNY'ye güveniyor
+    </h3>
+    @*one customer referance start*@
+    <div class="display_flex"style="margin-top:20px;">
+        <div class="width_50">bilmem kimin resmi
+        </div>
+        <div class="width_50">
+            <p>
+                "bilmem kimin GNY hakkındaki görüşü"
+            </p>
+            <b>bilmem kim, bilmem nerenin bilmem ne Müdürü</b>
+        </div>
+    </div>
+    @*one customer referance end*@
+    @*our company costemer logos start*@
+    <h3 class="text_align_center" style="margin-top:100px;">
+        Bu şirket şimdiden GNY pazarına güveniyor
+    </h3>
+    <div class="display_flex" >
+        img width:(100 /num total img)%; gerekirse divlere ayır
+    </div>
+    @*our company costemer logos end*@
+    </div>
+</div>
+@*Costomers section end*@
+@*Now try for free section start*@
+<div class="margin_between_sections home_index_element_background_color home_index_now_try_section_main_div">
+    <br />
+    <h3 class="font_weight_bold text_align_center color_white">
+        GNY’yi şimdi test edin ve dijital lojistik yazılımımızın avantajlarını kendiniz deneyimleyin.
+    </h3>
+    @*sign up button start*@
+    <div class="home_index_now_try_section_button_div">
+        <form asp-area="" asp-controller="Account" asp-action="SignUp" method="get">
+            <button class="home_index_top_information_buttons">
+                <text class="home_index_top_information_button_text_color">
+                    Şimdi Müşteri Olun
+                </text>
+            </button>
+        </form>
+    </div>
+    @*sign up button end*@
+</div>
+@*Now try for free section end*@
