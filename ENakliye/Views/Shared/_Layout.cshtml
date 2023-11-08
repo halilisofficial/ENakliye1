@@ -27,7 +27,7 @@
                 <a class="nav-link text-white" asp-area="" asp-controller="Product" asp-action="Index">Ürün</a>
                 <ul class="navbardropdown">
                     <li class="navbarli">
-                        <a class="nav-link text-white" asp-area="" asp-controller="Product" asp-action="OverView">Genel Bakış</a>
+                        <a class="nav-link text-white" asp-area="" asp-controller="Product" asp-action="Index">Genel Bakış</a>
                     </li>
                     <li class="navbarli">
                         <a class="nav-link text-white" asp-area="" asp-controller="Product" asp-action="Advert">İlanlar</a>
@@ -66,7 +66,7 @@
                 <a class="nav-link text-white" asp-area="" asp-controller="Servis" asp-action="Index">Hizmetler</a>
                 <ul class="navbardropdown">
                     <li class="navbarli">
-                        <a class="nav-link text-white" asp-area="" asp-controller="Servis" asp-action="OverView">Genel Bakış</a>
+                        <a class="nav-link text-white" asp-area="" asp-controller="Servis" asp-action="Index">Genel Bakış</a>
                     </li>
                     <li class="navbarli">
                         <a class="nav-link text-white" asp-area="" asp-controller="Servis" asp-action="TransportBaroMeter">Nakliye Barometresi</a>
@@ -100,7 +100,7 @@
                         <a class="nav-link text-white" asp-area="" asp-controller="Company" asp-action="Index">Şirket</a>
                 <ul class="navbardropdown">
                     <li class="navbarli">
-                        <a class="nav-link text-white" asp-area="" asp-controller="Company" asp-action="OverView">Genel Bakış</a>
+                        <a class="nav-link text-white" asp-area="" asp-controller="Company" asp-action="Index">Genel Bakış</a>
                     </li>
                     <li class="navbarli">
                         <a class="nav-link text-white" asp-area="" asp-controller="Company" asp-action="BuisnessPartners">İş Ortaklarımız</a>
@@ -127,7 +127,7 @@
                 <a class="nav-link text-white" asp-area="" asp-controller="News" asp-action="Index">Haberler</a>
                 <ul class="navbardropdown">
                     <li class="navbarli">
-                        <a class="nav-link text-white" asp-area="" asp-controller="News" asp-action="OverView">Genel Bakış</a>
+                        <a class="nav-link text-white" asp-area="" asp-controller="News" asp-action="Index">Genel Bakış</a>
                     </li>
                     @*
                     <li class="navbarli">
@@ -188,15 +188,16 @@
         @*class="container" kaldırılıp sayfaların %100 oranda kullanılması sağlanmıştır*@
         <main role="main" class="pb-3">
             @RenderBody()
-            @*position:absolute;bottom:0 olan footerdan kurtulmak için brler eklenmiştir
-            footer bu brlerin tam üstüne üstüne gelip sitedeki normal elementlerin görünmesini engellemiyor*@
+          
             <partial name="PartialViews/_PartialViewContuctInfo" />
             @*footer br start*@
-            <button onclick="scrollToTop()" id="scroll_to_top_button">
+            <button onclick="scrollToTopMainLayout()" id="scroll_to_top_button">
                 <strong>
                     ↑
                 </strong>
-            </button>
+            </button> 
+            @*position:absolute;bottom:0 olan footerdan kurtulmak için brler eklenmiştir
+            footer bu brlerin tam üstüne üstüne gelip sitedeki normal elementlerin görünmesini engellemiyor*@
             @for (byte i = 0; i < 26; i++)
             {
                 <br />
@@ -213,7 +214,7 @@
                 <a class="text_decoration_under_line_on_hover nav-link text-white" asp-area="" asp-controller="Product" asp-action="Index">Ürün</a>
                 <ul class="footer_sub_list">
                     <li class="text_decoration_under_line_on_hover">
-                        <a class="nav-link text-white" asp-area="" asp-controller="Product" asp-action="OverView">Genel Bakış</a>
+                        <a class="nav-link text-white" asp-area="" asp-controller="Product" asp-action="Index">Genel Bakış</a>
                     </li>
                     <li class="text_decoration_under_line_on_hover">
                         <a class="nav-link text-white" asp-area="" asp-controller="Product" asp-action="Advert">İlanlar</a>
@@ -253,7 +254,7 @@
                 <a class="nav-link text-white" asp-area="" asp-controller="Servis" asp-action="Index">Hizmetler</a>
                 <ul class ="footer_sub_list">
                     <li class="text_decoration_under_line_on_hover">
-                        <a class="nav-link text-white" asp-area="" asp-controller="Servis" asp-action="OverView">Genel Bakış</a>
+                        <a class="nav-link text-white" asp-area="" asp-controller="Servis" asp-action="Index">Genel Bakış</a>
                     </li>
                     <li class="text_decoration_under_line_on_hover">
                         <a class="nav-link text-white" asp-area="" asp-controller="Servis" asp-action="TransportBaroMeter">Nakliye Barometresi</a>
@@ -287,7 +288,7 @@
                 <a class="nav-link text-white" asp-area="" asp-controller="Company" asp-action="Index">Şirket</a>
                 <ul class="footer_sub_list">
                     <li class="text_decoration_under_line_on_hover">
-                        <a class="nav-link text-white" asp-area="" asp-controller="Company" asp-action="OverView">Genel Bakış</a>
+                        <a class="nav-link text-white" asp-area="" asp-controller="Company" asp-action="Index">Genel Bakış</a>
                     </li>
                     <li class="text_decoration_under_line_on_hover">
                         <a class="nav-link text-white" asp-area="" asp-controller="Company" asp-action="BuisnessPartners">İş Ortaklarımız</a>
@@ -314,7 +315,7 @@
                 <a class="nav-link text-white" asp-area="" asp-controller="News" asp-action="Index">Haberler</a>
                 <ul class="footer_sub_list">
                     <li class="text_decoration_under_line_on_hover">
-                        <a class="nav-link text-white" asp-area="" asp-controller="News" asp-action="OverView">Genel Bakış</a>
+                        <a class="nav-link text-white" asp-area="" asp-controller="News" asp-action="Index">Genel Bakış</a>
                     </li>
                     @*
                     <li class="text_decoration_under_line_on_hover">

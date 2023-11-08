@@ -8,10 +8,6 @@ namespace ENakliye.Controllers
         {
             return View();
         }
-        public IActionResult OverView()// Genel Bakış
-        {
-            return View("Index");
-        }
         public IActionResult TransportBaroMeter()// Nakliye Barometresi
         {
             return View();

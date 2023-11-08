@@ -8,10 +8,6 @@ namespace ENakliye.Controllers
         {
             return View();
         }
-        public IActionResult OverView()//genel bakış
-        {
-            return View("Index");
-        }
         public IActionResult Advert()//ilanlar
         {
             return View();

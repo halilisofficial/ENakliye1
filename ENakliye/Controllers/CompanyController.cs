@@ -8,10 +8,6 @@ namespace ENakliye.Controllers
         {
             return View();
         }
-        public IActionResult OverView()//genel bakış
-        {
-            return View("Index");
-        }
         /*şirket politikasının bunu destekleyeceği bilinmediğinden geçici süreliğine kaldırılmıştır
         public IActionResult CustomerRequitCostemers()// müşteri müşteri kazandırır
         {
