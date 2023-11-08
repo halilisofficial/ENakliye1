@@ -9,385 +9,385 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ENakliye
 build_property.RootNamespace = ENakliye
-build_property.ProjectDir = D:\ENakliye\ENakliye\
+build_property.ProjectDir = C:\Users\bahad\OneDrive\Masaüstü\ENakliye\ENakliye\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\ENakliye\ENakliye
+build_property.MSBuildProjectDirectory = C:\Users\bahad\OneDrive\Masaüstü\ENakliye\ENakliye
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/ENakliye/ENakliye/Areas/AdminPanel/Views/Home/Index.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Areas/AdminPanel/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Areas/UserPanel/Views/UserHome/IndexHomeUser.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Areas/UserPanel/Views/UserHome/IndexHomeUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbmVsXFZpZXdzXFVzZXJIb21lXEluZGV4SG9tZVVzZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Areas/UserPanel/Views/UserHome/UserAdvert.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Areas/UserPanel/Views/UserHome/UserAdvert.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbmVsXFZpZXdzXFVzZXJIb21lXFVzZXJBZHZlcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Areas/UserPanel/Views/UserHome/UserFreightExchange.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Areas/UserPanel/Views/UserHome/UserFreightExchange.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbmVsXFZpZXdzXFVzZXJIb21lXFVzZXJGcmVpZ2h0RXhjaGFuZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Areas/UserPanel/Views/UserHome/UserRoutes.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Areas/UserPanel/Views/UserHome/UserRoutes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbmVsXFZpZXdzXFVzZXJIb21lXFVzZXJSb3V0ZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Areas/UserPanel/Views/UserHome/UserSettings.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Areas/UserPanel/Views/UserHome/UserSettings.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbmVsXFZpZXdzXFVzZXJIb21lXFVzZXJTZXR0aW5ncy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Areas/UserPanel/Views/UserHome/UserStatistic.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Areas/UserPanel/Views/UserHome/UserStatistic.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbmVsXFZpZXdzXFVzZXJIb21lXFVzZXJTdGF0aXN0aWMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Areas/UserPanel/Views/UserHome/UserVehicleSpace.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Areas/UserPanel/Views/UserHome/UserVehicleSpace.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbmVsXFZpZXdzXFVzZXJIb21lXFVzZXJWZWhpY2xlU3BhY2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Areas/UserPanel/Views/UserHome/UserWarehouse.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Areas/UserPanel/Views/UserHome/UserWarehouse.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbmVsXFZpZXdzXFVzZXJIb21lXFVzZXJXYXJlaG91c2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Account/ForgetPassword.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Account/ForgetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3JnZXRQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Account/ForgetPasswordEmailSent.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Account/ForgetPasswordEmailSent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3JnZXRQYXNzd29yZEVtYWlsU2VudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Account/Login.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Account/SignUp.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Account/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTaWduVXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Company/AboutUs.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Company/AboutUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxBYm91dFVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Company/BuisnessPartners.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Company/BuisnessPartners.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxCdWlzbmVzc1BhcnRuZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Company/CustomerReferences.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Company/CustomerReferences.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxDdXN0b21lclJlZmVyZW5jZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Company/CustomerReferencesPartialViews/_PartialViewFreightForwarder.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Company/CustomerReferencesPartialViews/_PartialViewFreightForwarder.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxDdXN0b21lclJlZmVyZW5jZXNQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3RnJlaWdodEZvcndhcmRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Company/CustomerReferencesPartialViews/_PartialViewManufacturingAndTrade.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Company/CustomerReferencesPartialViews/_PartialViewManufacturingAndTrade.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxDdXN0b21lclJlZmVyZW5jZXNQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3TWFudWZhY3R1cmluZ0FuZFRyYWRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Company/CustomerReferencesPartialViews/_PartialViewRoadHaulier.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Company/CustomerReferencesPartialViews/_PartialViewRoadHaulier.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxDdXN0b21lclJlZmVyZW5jZXNQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3Um9hZEhhdWxpZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Company/CustomerRequitCostemers.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Company/CustomerRequitCostemers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxDdXN0b21lclJlcXVpdENvc3RlbWVycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Company/Index.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Company/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Company/SuccsessStories.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Company/SuccsessStories.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxTdWNjc2Vzc1N0b3JpZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Contuct/Index.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Contuct/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Contuct/IndexPartialViews/_PartialViewCompanyCommunication.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Contuct/IndexPartialViews/_PartialViewCompanyCommunication.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHVjdFxJbmRleFBhcnRpYWxWaWV3c1xfUGFydGlhbFZpZXdDb21wYW55Q29tbXVuaWNhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Contuct/IndexPartialViews/_PartialViewCustomerCare.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Contuct/IndexPartialViews/_PartialViewCustomerCare.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHVjdFxJbmRleFBhcnRpYWxWaWV3c1xfUGFydGlhbFZpZXdDdXN0b21lckNhcmUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Contuct/IndexPartialViews/_PartialViewInternationalDebtCollection.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Contuct/IndexPartialViews/_PartialViewInternationalDebtCollection.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHVjdFxJbmRleFBhcnRpYWxWaWV3c1xfUGFydGlhbFZpZXdJbnRlcm5hdGlvbmFsRGVidENvbGxlY3Rpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Home/Index.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Home/IndexPartialViews/_PartialViewFreightExchange.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Home/IndexPartialViews/_PartialViewFreightExchange.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleFBhcnRpYWxWaWV3c1xfUGFydGlhbFZpZXdGcmVpZ2h0RXhjaGFuZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Home/IndexPartialViews/_PartialViewInterfaces.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Home/IndexPartialViews/_PartialViewInterfaces.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleFBhcnRpYWxWaWV3c1xfUGFydGlhbFZpZXdJbnRlcmZhY2VzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Home/IndexPartialViews/_PartialViewTransportBarometer.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Home/IndexPartialViews/_PartialViewTransportBarometer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleFBhcnRpYWxWaWV3c1xfUGFydGlhbFZpZXdUcmFuc3BvcnRCYXJvbWV0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Home/IndexPartialViews/_PartialViewValueAddedServices.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Home/IndexPartialViews/_PartialViewValueAddedServices.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleFBhcnRpYWxWaWV3c1xfUGFydGlhbFZpZXdWYWx1ZUFkZGVkU2VydmljZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Home/Privacy.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/News/Index.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/News/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/News/Journal.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/News/Journal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xKb3VybmFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Product/Advert.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Product/Advert.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZHZlcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Product/AdvertPartialViews/_PartialViewBidders.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Product/AdvertPartialViews/_PartialViewBidders.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZHZlcnRQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3QmlkZGVycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Product/AdvertPartialViews/_PartialViewTenderingCompany.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Product/AdvertPartialViews/_PartialViewTenderingCompany.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZHZlcnRQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3VGVuZGVyaW5nQ29tcGFueS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Product/ClosedFreightExchange.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Product/ClosedFreightExchange.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDbG9zZWRGcmVpZ2h0RXhjaGFuZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Product/Freight.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Product/Freight.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxGcmVpZ2h0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Product/Index.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Product/RatingsFeature.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Product/RatingsFeature.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxSYXRpbmdzRmVhdHVyZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Product/ShipmentTracking.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Product/ShipmentTracking.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTaGlwbWVudFRyYWNraW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Product/Tracking.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Product/Tracking.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxUcmFja2luZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Product/TransportOrders.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Product/TransportOrders.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxUcmFuc3BvcnRPcmRlcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Product/VehicleSpace.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Product/VehicleSpace.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxWZWhpY2xlU3BhY2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Product/Warehouse.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Product/Warehouse.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxXYXJlaG91c2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/Download.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/Download.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXERvd25sb2FkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/DownloadPartialViews/_PartialViewCollectionAgency.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/DownloadPartialViews/_PartialViewCollectionAgency.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXERvd25sb2FkUGFydGlhbFZpZXdzXF9QYXJ0aWFsVmlld0NvbGxlY3Rpb25BZ2VuY3kuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/DownloadPartialViews/_PartialViewGTC.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/DownloadPartialViews/_PartialViewGTC.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXERvd25sb2FkUGFydGlhbFZpZXdzXF9QYXJ0aWFsVmlld0dUQy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/FreightExchangeInterface.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/FreightExchangeInterface.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXEZyZWlnaHRFeGNoYW5nZUludGVyZmFjZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/Index.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/InternationalDebtCollection.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/InternationalDebtCollection.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXEludGVybmF0aW9uYWxEZWJ0Q29sbGVjdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/Security.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/Security.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFNlY3VyaXR5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/SecurityPartialViews/_PartialViewAccessSoftware.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/SecurityPartialViews/_PartialViewAccessSoftware.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFNlY3VyaXR5UGFydGlhbFZpZXdzXF9QYXJ0aWFsVmlld0FjY2Vzc1NvZnR3YXJlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/SecurityPartialViews/_PartialViewIdentityVerification.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/SecurityPartialViews/_PartialViewIdentityVerification.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFNlY3VyaXR5UGFydGlhbFZpZXdzXF9QYXJ0aWFsVmlld0lkZW50aXR5VmVyaWZpY2F0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/SecurityPartialViews/_PartialViewInternationalDebtCollectionService.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/SecurityPartialViews/_PartialViewInternationalDebtCollectionService.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFNlY3VyaXR5UGFydGlhbFZpZXdzXF9QYXJ0aWFsVmlld0ludGVybmF0aW9uYWxEZWJ0Q29sbGVjdGlvblNlcnZpY2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/SecurityPartialViews/_PartialViewNewCustomerVerification.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/SecurityPartialViews/_PartialViewNewCustomerVerification.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFNlY3VyaXR5UGFydGlhbFZpZXdzXF9QYXJ0aWFsVmlld05ld0N1c3RvbWVyVmVyaWZpY2F0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/SecurityPartialViews/_PartialViewTechnologies.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/SecurityPartialViews/_PartialViewTechnologies.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFNlY3VyaXR5UGFydGlhbFZpZXdzXF9QYXJ0aWFsVmlld1RlY2hub2xvZ2llcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TrackingInterface.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TrackingInterface.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYWNraW5nSW50ZXJmYWNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportBaroMeter.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportBaroMeter.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydEJhcm9NZXRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionary.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionary.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewA.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewA.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3QS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewB.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewB.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3Qi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewCH.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewCH.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3Q0guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewD.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewD.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3RC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewE.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewE.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3RS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewF.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewF.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3Ri5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewG.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewG.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3Ry5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewH.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewH.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3SC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewJ.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewJ.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3Si5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewK.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewK.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3Sy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewL.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewL.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3TC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewM.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewM.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3TS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewN.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewN.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3Ti5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewO.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewO.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3Ty5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewO1.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewO1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3TzEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewP.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewP.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3UC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewR.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewR.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3Ui5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewS.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewS.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3Uy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewS1.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewS1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3UzEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewT.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewT.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3VC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewU.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewU.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3VS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewU1.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewU1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3VTEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewV.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewV.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3Vi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewY.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewY.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3WS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewZ.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportDictionaryPartialViews/_PartialViewZ.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydERpY3Rpb25hcnlQYXJ0aWFsVmlld3NcX1BhcnRpYWxWaWV3Wi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Servis/TransportOrderInterface.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Servis/TransportOrderInterface.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmlzXFRyYW5zcG9ydE9yZGVySW50ZXJmYWNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Shared/Error.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Shared/PartialViews/_PartialViewContuctInfo.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Shared/PartialViews/_PartialViewContuctInfo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxWaWV3c1xfUGFydGlhbFZpZXdDb250dWN0SW5mby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Shared/_LayoutUser.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Shared/_LayoutUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRVc2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/_ViewImports.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/_ViewStart.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ENakliye/ENakliye/Views/Shared/_Layout.cshtml]
+[C:/Users/bahad/OneDrive/Masaüstü/ENakliye/ENakliye/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-qxk9jv2l3y
